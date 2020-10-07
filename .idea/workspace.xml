@@ -140,12 +140,20 @@
       <option name="project" value="LOCAL" />
       <updated>1602042368121</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="completed task 2">
+      <created>1602043189255</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602043189255</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="completed task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed task 1" />
+    <MESSAGE value="completed task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed task 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="93" key="#com.intellij.ide.util.MemberChooser" timestamp="1602042154516">
@@ -156,13 +164,13 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="531" y="272" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.768@0.0.1366.768" timestamp="1602041819813" />
-    <state x="203" y="0" key="CommitChangelistDialog2" timestamp="1602042364476">
+    <state x="203" y="0" key="CommitChangelistDialog2" timestamp="1602043186126">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="203" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602042364476" />
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1602042545623">
+    <state x="203" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602043186126" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1602043197608">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602042545623" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602043197608" />
   </component>
 </project>
